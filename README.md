@@ -230,13 +230,3 @@ This project is licensed under the MIT License.
 ---
 
 
-How to Use the API?
-
-    Run Server: python manage.py runserver
-
-    Admin Panel: http://127.0.0.1:8000/admin/ (Use this to add/edit users and transactions).
-
-    Transactions List: http://127.0.0.1:8000/api/transactions/
-
-    Finance Summary: http://127.0.0.1:8000/api/analytics/
-
