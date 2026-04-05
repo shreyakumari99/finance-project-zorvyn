@@ -150,7 +150,7 @@ Optional filtering:
   "net_balance": 6000
 }
 ```
-## How to Use the API?
+## 🚀 How to Use the API?
 
     Run Server: python manage.py runserver
 
